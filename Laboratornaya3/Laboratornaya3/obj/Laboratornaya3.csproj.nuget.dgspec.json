@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Лариса\\source\\repos\\Laboratornaya3\\Laboratornaya3\\Laboratornaya3\\Laboratornaya3.csproj": {}
+    "C:\\Users\\Лариса\\Source\\Repos\\Laboratornaya3\\Laboratornaya3\\Laboratornaya3\\Laboratornaya3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Лариса\\source\\repos\\Laboratornaya3\\Laboratornaya3\\Laboratornaya3\\Laboratornaya3.csproj": {
+    "C:\\Users\\Лариса\\Source\\Repos\\Laboratornaya3\\Laboratornaya3\\Laboratornaya3\\Laboratornaya3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Лариса\\source\\repos\\Laboratornaya3\\Laboratornaya3\\Laboratornaya3\\Laboratornaya3.csproj",
+        "projectUniqueName": "C:\\Users\\Лариса\\Source\\Repos\\Laboratornaya3\\Laboratornaya3\\Laboratornaya3\\Laboratornaya3.csproj",
         "projectName": "Laboratornaya3",
-        "projectPath": "C:\\Users\\Лариса\\source\\repos\\Laboratornaya3\\Laboratornaya3\\Laboratornaya3\\Laboratornaya3.csproj",
+        "projectPath": "C:\\Users\\Лариса\\Source\\Repos\\Laboratornaya3\\Laboratornaya3\\Laboratornaya3\\Laboratornaya3.csproj",
         "packagesPath": "C:\\Users\\Лариса\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Лариса\\source\\repos\\Laboratornaya3\\Laboratornaya3\\Laboratornaya3\\obj\\",
+        "outputPath": "C:\\Users\\Лариса\\Source\\Repos\\Laboratornaya3\\Laboratornaya3\\Laboratornaya3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Лариса\\AppData\\Roaming\\NuGet\\NuGet.Config",
